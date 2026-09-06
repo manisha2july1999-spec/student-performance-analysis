@@ -1,0 +1,9 @@
+student-performance-prediction/
+│
+├── README.md
+├── student_performance.csv
+├── student_prediction.ipynb
+├── app.py
+├── requirements.txt
+└── images/
+    └── dashboard.png
